@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/springcloud/admin-server/admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/all-project.iml" filepath="$PROJECT_DIR$/.idea/all-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/config-server/config-server.iml" filepath="$PROJECT_DIR$/springcloud/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/fcat-api/fcat-api.iml" filepath="$PROJECT_DIR$/springcloud/fcat-api/fcat-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/fcat-common/fcat-common.iml" filepath="$PROJECT_DIR$/springcloud/fcat-common/fcat-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/springcloud/gateway-server/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcould.iml" filepath="$PROJECT_DIR$/springcloud/springcould.iml" />
+    </modules>
+  </component>
+</project>
